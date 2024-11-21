@@ -1,13 +1,5 @@
 # Como rodar o applicativo
 
-## Baixando ollama
-
-Para utilizar o projeto é necessário baixar ollama. Para isso vá no site [do ollama](https://ollama.com/) e faça o download.
-
-Em seguida é necessário baixar o modelo, nessa aplicação estamos utilizado o ollama3.1.
-
-Com isso você esta pronto para inciar o desenvolvimento
-
 ## Api da open AI
 
 coloque em um arquivo .env a sua credencial da openAi
