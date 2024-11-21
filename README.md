@@ -38,7 +38,7 @@ Abaixo tem o relatório desenvolvido... Também é possível acessá-lo no pdf n
 
 # Pitch
 ![video no youtube](https://www.youtube.com/watch?v=e04cYwZtBVY)
-
+https://www.youtube.com/watch?v=e04cYwZtBVY
 # Relatório sobre problema
 
 ## Problema a ser resolvido
