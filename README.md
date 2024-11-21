@@ -37,7 +37,7 @@ docker-compose up
 Abaixo tem o relatório desenvolvido... Também é possível acessá-lo no pdf no repositorio
 
 # Pitch
-![](https://youtu.be/e04cYwZtBVY)
+![video no youtube](https://youtu.be/e04cYwZtBVY)
 
 # Relatório sobre problema
 
